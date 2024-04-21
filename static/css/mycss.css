@@ -47,6 +47,18 @@
   margin-right: 5px;
 }
 
+.container_story {
+  max-width: 15%;
+  width: auto; /* 设置宽度为自适应 */
+  height: auto; /* Allow height to adjust based on content */
+  color: #fff;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: -5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 .container35 {
   max-width: 19%;
   width: auto; /* 设置宽度为自适应 */
