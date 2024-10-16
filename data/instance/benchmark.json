@@ -1,0 +1,10 @@
+[   
+    {
+        "note": "cat and cat2",
+        "cls1": "cat",
+        "ins1_path": "cat",
+        "cls2": "cat",
+        "ins2_path": "cat2",
+        "text_path": "prompt/two-objects.txt"
+    }
+]
