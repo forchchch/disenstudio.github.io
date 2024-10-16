@@ -35,7 +35,7 @@ To generate new videos with your customized models. Please go into the "generati
 CUDA_VISIBLE_DEVICES=X python inference.py
 ```
 
-Change the lora path in inference.py so that you can use different cutomized models.
+Change the lora path in inference.py so that you can use different cutomized models. Note that our used base model is not the most advanced text-to-video model, so it can only generate videos with limit seconds and its performance is not so stable.
 
 
 ## Citation
